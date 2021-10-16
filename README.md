@@ -1,4 +1,4 @@
-<img src="https://github.com/Jishnu-Dev/ABOUT-ME/raw/main/jishnu.svg" alt="Jishnu Raj" style="width: 55%;">
+<img src="https://github.com/Jishnu-Dev/ABOUT-ME/raw/main/jishnu.svg" alt="Jishnu Raj" style="width: 30%;">
 
 <h2>Hi! 👋  I'm Jishnu Raj</h2>
 
