@@ -1,6 +1,6 @@
-![Jishnu Raj](jishnu.svg)
+<img src="https://github.com/Jishnu-Dev/ABOUT-ME/raw/main/jishnu.svg" alt="Jishnu Raj" style="width: 55%;">
 
-<h2>Hi! 👋  I'm Jishnu Raj <img src="https://img.icons8.com/emoji/48/000000/boy-light-skin-tone.png"/></h2>
+<h2>Hi! 👋  I'm Jishnu Raj</h2>
 
 <p>🧑🏻‍🦱 I'm a - passionate web developer<br />
 🖥️ I love to - explore new techs and build hobbie projects<br />
