@@ -1,6 +1,6 @@
 <img src="https://github.com/Jishnu-Dev/ABOUT-ME/raw/main/jishnu.svg" alt="Jishnu Raj" style="width: 30%;">
 
-<h2>Hi! 👋  I'm Jishnu Raj</h2>
+<h2>Hi 👋  I'm Jishnu Raj</h2>
 
 <p>🧑🏻‍🦱 I'm a - passionate web developer<br />
 🖥️ I love to - explore new techs and build hobbie projects<br />
