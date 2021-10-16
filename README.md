@@ -1,4 +1,5 @@
-<iframe src="https://embed.lottiefiles.com/animation/74635"></iframe>
+![GitHub Logo](jishnu.gif)
+
 <h2>Hi! 👋  I'm Jishnu Raj</h2>
 
 <p>🧑🏻‍🦱 I'm a - passionate web developer<br />
