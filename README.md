@@ -1,4 +1,4 @@
-![GitHub Logo](jishnu.svg)
+![Jishnu Raj](jishnu.svg)
 
 <h2>Hi! 👋  I'm Jishnu Raj</h2>
 
