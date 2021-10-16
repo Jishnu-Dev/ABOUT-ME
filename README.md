@@ -8,7 +8,11 @@
 <p>Find me on instagram <a href="https://www.instagram.com/plutokyd/">Instagram</a></p>
 
 <h2> My favourite technology stack </h2>
+<div style="display: flex;">
+<img src="https://img.icons8.com/color-glass/48/000000/github.png"/>
 <img src="https://img.icons8.com/color-glass/50/000000/adobe-photoshop.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</div>
 
