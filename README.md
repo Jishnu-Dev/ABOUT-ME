@@ -3,7 +3,7 @@
 <h2>Hi 👋  I'm Jishnu Raj</h2>
 
 <p>🧑🏻‍🦱 I'm a - passionate web developer<br />
-🖥️ I love to - explore new techs and build hobbie projects<br />
+🖥️ I love to - explore new techs and build hobby projects<br />
 👨‍🎨 I'm also a - Photoshop artist<br />
 📷 Other than development - I love to do photography and videography <br />
 🖱️ I have - 1+ Years of experience working as a web developer<p/>
